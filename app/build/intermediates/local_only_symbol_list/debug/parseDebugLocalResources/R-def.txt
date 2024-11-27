@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable baseline_settings_24
+drawable fachada_ifam
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id Senha
+id btCadastrar
+id btEntrar
+id btLogin
+id btProximo
+id emailLogin
+id iv_background
+id main
+id msgTopo
+id msg_bemVindos
+id textView2
+id textoLogin
+id tv_main_locations
+id tv_welcome_campus
+layout activity_main
+layout activity_main_login
+layout activity_main_principais_locais
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Projeto_mapaifam
+style Theme.Projeto_mapaifam
+xml backup_rules
+xml data_extraction_rules
