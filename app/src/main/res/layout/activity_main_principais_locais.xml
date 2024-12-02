@@ -39,7 +39,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="48dp"
         android:layout_marginTop="20dp"
-        android:text="Bem Vindo ao Campus Zona Leste"
+        android:text="Bem-Vindo ao Campus Zona Leste"
         android:textColor="#000000"
         android:textSize="20sp"
         android:textStyle="bold"
@@ -131,6 +131,11 @@
             android:gravity="center_vertical"
             android:orientation="horizontal"
             android:padding="8dp">
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:src="@drawable/ct"/>
+
             <LinearLayout
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
@@ -171,6 +176,10 @@
             android:gravity="center_vertical"
             android:orientation="horizontal"
             android:padding="8dp">
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:src="@drawable/ct_aranoua"/>
             <LinearLayout
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
@@ -202,7 +211,7 @@
                 android:text="Detalhes"
                 android:textColor="#000000" />
         </LinearLayout>
-        <!-- Item: CT Aranoua -->
+        <!-- Item: Protocolo -->
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -211,6 +220,10 @@
             android:gravity="center_vertical"
             android:orientation="horizontal"
             android:padding="8dp">
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:src="@drawable/protocolo"/>
             <LinearLayout
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"

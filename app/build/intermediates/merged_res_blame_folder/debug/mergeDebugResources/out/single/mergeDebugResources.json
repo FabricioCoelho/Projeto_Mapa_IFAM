@@ -16,6 +16,10 @@
         "source": "devandroid.fabricio.projeto_mapaifam.app-main-34:/drawable/baseline_settings_24.xml"
     },
     {
+        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-32:/drawable_local_library_24dp_5f6368_fill0_wght400_grad0_opsz24.xml.flat",
+        "source": "devandroid.fabricio.projeto_mapaifam.app-main-34:/drawable/local_library_24dp_5f6368_fill0_wght400_grad0_opsz24.xml"
+    },
+    {
         "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-32:/layout_activity_main_principais_locais.xml.flat",
         "source": "devandroid.fabricio.projeto_mapaifam.app-main-34:/layout/activity_main_principais_locais.xml"
     },

@@ -3036,6 +3036,7 @@ drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_search_black_24
 drawable indeterminate_static
+drawable local_library_24dp_5f6368_fill0_wght400_grad0_opsz24
 drawable m3_avd_hide_password
 drawable m3_avd_show_password
 drawable m3_bottom_sheet_drag_handle
@@ -3214,6 +3215,10 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id btCadastrar
+id btDetalhesBiblioteca
+id btDetalhesCT
+id btDetalhesCTAranoua
+id btDetalhesProtocolo
 id btEntrar
 id btLogin
 id btProximo
@@ -3361,6 +3366,7 @@ id legacy
 id line1
 id line3
 id linear
+id linearLayout
 id listMode
 id list_item
 id m3_side_sheet
