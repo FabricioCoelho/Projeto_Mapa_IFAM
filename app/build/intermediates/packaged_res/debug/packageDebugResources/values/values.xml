@@ -3,6 +3,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">projeto_mapaifam</string>
+    <string name="my_map_api_key">AIzaSyA12xSjrWp-vt_GM9evUI3nrkVjzdgBNgQ</string>
+    <string name="title_activity_maps">MapsActivity</string>
     <style name="Base.Theme.Projeto_mapaifam" parent="Theme.Material3.DayNight.NoActionBar">
         
         
