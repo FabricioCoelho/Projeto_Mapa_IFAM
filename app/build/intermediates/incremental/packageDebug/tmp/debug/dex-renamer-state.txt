@@ -1,9 +1,9 @@
-#Wed Dec 04 13:33:00 AMT 2024
-base.0=C\:\\Users\\filar\\AndroidStudioProjects\\Projeto_Mapa_IFAM\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\Users\\filar\\AndroidStudioProjects\\Projeto_Mapa_IFAM\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=C\:\\Users\\filar\\AndroidStudioProjects\\Projeto_Mapa_IFAM\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
-base.3=C\:\\Users\\filar\\AndroidStudioProjects\\Projeto_Mapa_IFAM\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
-base.4=C\:\\Users\\filar\\AndroidStudioProjects\\Projeto_Mapa_IFAM\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+#Thu Dec 05 20:53:40 AMT 2024
+base.0=D\:\\Estudos\\Projeto_Mapa_IFAM\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=D\:\\Estudos\\Projeto_Mapa_IFAM\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=D\:\\Estudos\\Projeto_Mapa_IFAM\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
+base.3=D\:\\Estudos\\Projeto_Mapa_IFAM\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
+base.4=D\:\\Estudos\\Projeto_Mapa_IFAM\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=6/classes.dex

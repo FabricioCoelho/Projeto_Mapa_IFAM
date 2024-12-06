@@ -4,7 +4,7 @@
             "outputFile": "devandroid.fabricio.projeto_mapaifam.app-mergeDebugResources-33:/values-sq/values-sq.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\filar\\.gradle\\caches\\8.9\\transforms\\bb55f86ed7df5256d5a7c9f79b83a170\\transformed\\material-1.12.0\\res\\values-sq\\values-sq.xml",
+                    "source": "C:\\Users\\fabri\\.gradle\\caches\\8.9\\transforms\\bb55f86ed7df5256d5a7c9f79b83a170\\transformed\\material-1.12.0\\res\\values-sq\\values-sq.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\filar\\.gradle\\caches\\8.9\\transforms\\7979c7b5ec28c20195d359b7102a2d64\\transformed\\play-services-base-18.5.0\\res\\values-sq\\values.xml",
+                    "source": "C:\\Users\\fabri\\.gradle\\caches\\8.9\\transforms\\7979c7b5ec28c20195d359b7102a2d64\\transformed\\play-services-base-18.5.0\\res\\values-sq\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -40,24 +40,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\filar\\.gradle\\caches\\8.9\\transforms\\5c1d410def5bcf0f5f7a103c309867c5\\transformed\\play-services-basement-18.4.0\\res\\values-sq\\values.xml",
+                    "source": "C:\\Users\\fabri\\.gradle\\caches\\8.9\\transforms\\d6a8212e383ae8093960f69f52035772\\transformed\\core-1.15.0\\res\\values-sq\\values-sq.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "124",
-                        "endOffsets": "319"
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,154,256,354,451,559,670,792",
+                        "endColumns": "98,101,97,96,107,110,121,100",
+                        "endOffsets": "149,251,349,446,554,665,787,888"
                     },
                     "to": {
-                        "startLines": "56",
-                        "startColumns": "4",
-                        "startOffsets": "5556",
-                        "endColumns": "128",
-                        "endOffsets": "5680"
+                        "startLines": "38,39,40,41,42,43,44,134",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "3448,3547,3649,3747,3844,3952,4063,12293",
+                        "endColumns": "98,101,97,96,107,110,121,100",
+                        "endOffsets": "3542,3644,3742,3839,3947,4058,4180,12389"
                     }
                 },
                 {
-                    "source": "C:\\Users\\filar\\.gradle\\caches\\8.9\\transforms\\b56fa9ce3cd805ca580cc47d92b0963e\\transformed\\appcompat-1.7.0\\res\\values-sq\\values-sq.xml",
+                    "source": "C:\\Users\\fabri\\.gradle\\caches\\8.9\\transforms\\b56fa9ce3cd805ca580cc47d92b0963e\\transformed\\appcompat-1.7.0\\res\\values-sq\\values-sq.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -74,20 +74,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\filar\\.gradle\\caches\\8.9\\transforms\\d6a8212e383ae8093960f69f52035772\\transformed\\core-1.15.0\\res\\values-sq\\values-sq.xml",
+                    "source": "C:\\Users\\fabri\\.gradle\\caches\\8.9\\transforms\\5c1d410def5bcf0f5f7a103c309867c5\\transformed\\play-services-basement-18.4.0\\res\\values-sq\\values.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,154,256,354,451,559,670,792",
-                        "endColumns": "98,101,97,96,107,110,121,100",
-                        "endOffsets": "149,251,349,446,554,665,787,888"
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "124",
+                        "endOffsets": "319"
                     },
                     "to": {
-                        "startLines": "38,39,40,41,42,43,44,134",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "3448,3547,3649,3747,3844,3952,4063,12293",
-                        "endColumns": "98,101,97,96,107,110,121,100",
-                        "endOffsets": "3542,3644,3742,3839,3947,4058,4180,12389"
+                        "startLines": "56",
+                        "startColumns": "4",
+                        "startOffsets": "5556",
+                        "endColumns": "128",
+                        "endOffsets": "5680"
                     }
                 }
             ]

@@ -1,110 +1,122 @@
 [
     {
-        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/drawable_software48.png.flat",
-        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/drawable/software48.png"
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\layout_activity_main_principais_locais.xml.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\layout\\activity_main_principais_locais.xml"
     },
     {
         "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/layout_activity_main.xml.flat",
         "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/layout/activity_main.xml"
     },
     {
-        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/layout_activity_main_principais_locais.xml.flat",
-        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/layout/activity_main_principais_locais.xml"
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\drawable_ct.xml.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\drawable\\ct.xml"
     },
     {
-        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/xml_backup_rules.xml.flat",
-        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\layout\\activity_maps.xml"
     },
     {
-        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/xml_data_extraction_rules.xml.flat",
-        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\drawable_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\drawable\\baseline_settings_24.xml"
     },
     {
-        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\layout_activity_cadastro.xml.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\layout\\activity_cadastro.xml"
     },
     {
-        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\drawable_fachada_ifam.jpg.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\drawable\\fachada_ifam.jpg"
     },
     {
-        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\drawable_protocolo.xml.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\drawable\\protocolo.xml"
     },
     {
-        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/drawable_ic_launcher_background.xml.flat",
-        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\layout\\activity_main.xml"
     },
     {
-        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/drawable_ct_aranoua.xml.flat",
-        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/drawable/ct_aranoua.xml"
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/drawable_baseline_settings_24.xml.flat",
-        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/drawable/baseline_settings_24.xml"
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\drawable_software48.png.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\drawable\\software48.png"
     },
     {
-        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/drawable_local_library_24dp_5f6368_fill0_wght400_grad0_opsz24.xml.flat",
-        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/drawable/local_library_24dp_5f6368_fill0_wght400_grad0_opsz24.xml"
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/layout_activity_main_login.xml.flat",
-        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/layout/activity_main_login.xml"
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/drawable_protocolo.xml.flat",
-        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/drawable/protocolo.xml"
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\drawable_local_library_24dp_5f6368_fill0_wght400_grad0_opsz24.xml.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\drawable\\local_library_24dp_5f6368_fill0_wght400_grad0_opsz24.xml"
     },
     {
-        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\layout_activity_main_login.xml.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\layout\\activity_main_login.xml"
     },
     {
-        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/layout_activity_cadastro.xml.flat",
+        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/layout/activity_cadastro.xml"
     },
     {
-        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/drawable_ct.xml.flat",
-        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/drawable/ct.xml"
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/drawable_fachada_ifam.jpg.flat",
-        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/drawable/fachada_ifam.jpg"
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/layout_activity_maps.xml.flat",
-        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/layout/activity_maps.xml"
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "devandroid.fabricio.projeto_mapaifam.app-debug-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "devandroid.fabricio.projeto_mapaifam.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\drawable_ct_aranoua.xml.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\drawable\\ct_aranoua.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-debug-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\fabri\\.gradle\\daemon\\8.9\\devandroid.fabricio.projeto_mapaifam.app-main-37:\\drawable\\ic_launcher_background.xml"
     }
 ]

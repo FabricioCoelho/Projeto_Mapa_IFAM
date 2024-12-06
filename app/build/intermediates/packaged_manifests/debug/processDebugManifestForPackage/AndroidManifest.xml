@@ -60,9 +60,12 @@
             android:value="@string/my_map_api_key" />
 
         <activity
-            android:name="devandroid.fabricio.projeto_mapaifam.MainActivity"
+            android:name="devandroid.fabricio.projeto_mapaifam.MapsActivity"
             android:exported="false"
             android:label="@string/title_activity_maps" />
+        <activity
+            android:name="devandroid.fabricio.projeto_mapaifam.cadastro"
+            android:exported="false" />
         <activity
             android:name="devandroid.fabricio.projeto_mapaifam.MainActivity_login"
             android:exported="false" />
@@ -70,7 +73,7 @@
             android:name="devandroid.fabricio.projeto_mapaifam.MainLocationsActivity"
             android:exported="false" />
         <activity
-            android:name="devandroid.fabricio.projeto_mapaifam.MapsActivity"
+            android:name="devandroid.fabricio.projeto_mapaifam.MainActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -11,12 +11,13 @@ import androidx.core.view.WindowInsetsCompat
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        enableEdgeToEdge()
         setContentView(R.layout.activity_main)
-        val botaoEntrar: Button = findViewById(R.id.btEntrar)
 
+        //Ação do Botão Entrar
+        val botaoEntrar: Button = findViewById(R.id.btEntrar)
         botaoEntrar.setOnClickListener {
-            val intent = Intent(this, MainLocationsActivity::class.java)
+            //Vai para a tela de login
+            val intent = Intent(this, MainActivity_login::class.java)
             startActivity(intent)
         }
     }

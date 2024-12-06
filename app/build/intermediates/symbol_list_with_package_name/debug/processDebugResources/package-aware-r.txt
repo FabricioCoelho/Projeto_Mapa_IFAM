@@ -3285,6 +3285,7 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id btCadastrar
+id btCriarConta
 id btDetalhesBiblioteca
 id btDetalhesCT
 id btDetalhesCTAranoua
@@ -3317,6 +3318,7 @@ id closest
 id collapseActionView
 id compress
 id confirm_button
+id confirmarSenha
 id constraint
 id container
 id content
@@ -3369,6 +3371,7 @@ id edge
 id edit_query
 id edit_text_id
 id elastic
+id emailCadastro
 id emailLogin
 id embed
 id end
@@ -3520,6 +3523,7 @@ id neverCompleteToEnd
 id neverCompleteToStart
 id noScroll
 id noState
+id nomeCadastro
 id none
 id normal
 id north
@@ -3598,6 +3602,7 @@ id search_voice_btn
 id select_dialog_listview
 id selected
 id selection_type
+id senha
 id sharedValueSet
 id sharedValueUnset
 id shortcut
@@ -3673,6 +3678,7 @@ id time
 id title
 id titleDividerNoCustom
 id title_template
+id tituloCriarConta
 id toggle
 id top
 id topPanel
@@ -3830,6 +3836,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_cadastro
 layout activity_main
 layout activity_main_login
 layout activity_main_principais_locais

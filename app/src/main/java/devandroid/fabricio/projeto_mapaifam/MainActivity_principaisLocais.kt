@@ -12,11 +12,5 @@ class MainLocationsActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main_principais_locais)
-        val botaoProximo: Button = findViewById(R.id.btProximo)
-
-        botaoProximo.setOnClickListener {
-            val intent = Intent(this, MainActivity_login::class.java)
-            startActivity(intent)
-        }
     }
 }

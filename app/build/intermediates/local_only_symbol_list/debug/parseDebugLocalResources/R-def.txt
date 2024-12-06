@@ -13,6 +13,7 @@ drawable protocolo
 drawable software48
 id Senha
 id btCadastrar
+id btCriarConta
 id btDetalhesBiblioteca
 id btDetalhesCT
 id btDetalhesCTAranoua
@@ -20,6 +21,8 @@ id btDetalhesProtocolo
 id btEntrar
 id btLogin
 id btProximo
+id confirmarSenha
+id emailCadastro
 id emailLogin
 id iv_background
 id linearLayout
@@ -27,10 +30,14 @@ id main
 id map
 id msgTopo
 id msg_bemVindos
+id nomeCadastro
+id senha
 id textView2
 id textoLogin
+id tituloCriarConta
 id tv_main_locations
 id tv_welcome_campus
+layout activity_cadastro
 layout activity_main
 layout activity_main_login
 layout activity_main_principais_locais
