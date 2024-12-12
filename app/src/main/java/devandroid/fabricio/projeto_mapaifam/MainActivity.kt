@@ -12,7 +12,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
         //Ação do Botão Entrar
         val botaoEntrar: Button = findViewById(R.id.btEntrar)
         botaoEntrar.setOnClickListener {

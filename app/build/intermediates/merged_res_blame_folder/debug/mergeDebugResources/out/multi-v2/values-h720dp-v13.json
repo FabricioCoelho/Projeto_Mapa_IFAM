@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "devandroid.fabricio.projeto_mapaifam.app-mergeDebugResources-33:/values-h720dp-v13/values-h720dp-v13.xml",
+            "outputFile": "devandroid.fabricio.projeto_mapaifam.app-mergeDebugResources-40:/values-h720dp-v13/values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\fabri\\.gradle\\caches\\8.9\\transforms\\b56fa9ce3cd805ca580cc47d92b0963e\\transformed\\appcompat-1.7.0\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "source": "C:\\Users\\fabri\\.gradle\\caches\\8.9\\transforms\\1005483315778f9148fb89073a263289\\transformed\\appcompat-1.7.0\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

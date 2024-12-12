@@ -63,7 +63,7 @@
     <Button
         android:id="@+id/btLogin"
         android:layout_width="296dp"
-        android:layout_height="38dp"
+        android:layout_height="48dp"
         android:layout_gravity="center_horizontal"
         android:layout_marginStart="20dp"
         android:layout_marginTop="48dp"
@@ -78,7 +78,7 @@
     <Button
         android:id="@+id/btCadastrar"
         android:layout_width="296dp"
-        android:layout_height="38dp"
+        android:layout_height="48dp"
         android:layout_gravity="center_horizontal"
         android:layout_marginStart="20dp"
         android:layout_marginTop="16dp"
