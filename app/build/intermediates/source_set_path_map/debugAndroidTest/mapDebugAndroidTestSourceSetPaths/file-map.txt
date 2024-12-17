@@ -1,0 +1,6 @@
+devandroid.fabricio.projeto_mapaifam.test.app-core-1.6.1-0 C:\Users\filar\.gradle\caches\8.9\transforms\19a38e7d0aaec2f0f0565b12f3f3438b\transformed\core-1.6.1\res
+devandroid.fabricio.projeto_mapaifam.test.app-tracing-1.2.0-1 C:\Users\filar\.gradle\caches\8.9\transforms\6e2997c4b121fcd675113cc29b6b6562\transformed\tracing-1.2.0\res
+devandroid.fabricio.projeto_mapaifam.test.app-androidTest-2 C:\Users\filar\AndroidStudioProjects\Projeto_Mapa_IFAM\app\build\generated\res\resValues\androidTest\debug
+devandroid.fabricio.projeto_mapaifam.test.app-mergeDebugAndroidTestResources-3 C:\Users\filar\AndroidStudioProjects\Projeto_Mapa_IFAM\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+devandroid.fabricio.projeto_mapaifam.test.app-mergeDebugAndroidTestResources-4 C:\Users\filar\AndroidStudioProjects\Projeto_Mapa_IFAM\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+devandroid.fabricio.projeto_mapaifam.test.app-debugAndroidTest-5 C:\Users\filar\AndroidStudioProjects\Projeto_Mapa_IFAM\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

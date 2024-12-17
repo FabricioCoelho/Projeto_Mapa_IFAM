@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "devandroid.fabricio.projeto_mapaifam.app-mergeDebugResources-40:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\filar\\.gradle\\caches\\8.9\\transforms\\48a949337a836f2337e3e0e5cc6c931b\\transformed\\appcompat-1.7.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

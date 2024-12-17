@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "devandroid.fabricio.projeto_mapaifam.app-mergeDebugResources-41:/layout/activity_main.xml",
+        "source": "devandroid.fabricio.projeto_mapaifam.app-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "devandroid.fabricio.projeto_mapaifam.app-mergeDebugResources-41:/layout/activity_main_principais_locais.xml",
+        "source": "devandroid.fabricio.projeto_mapaifam.app-main-44:/layout/activity_main_principais_locais.xml"
+    },
+    {
+        "merged": "devandroid.fabricio.projeto_mapaifam.app-mergeDebugResources-41:/layout/activity_maps.xml",
+        "source": "devandroid.fabricio.projeto_mapaifam.app-main-44:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "devandroid.fabricio.projeto_mapaifam.app-mergeDebugResources-41:/layout/activity_cadastro.xml",
+        "source": "devandroid.fabricio.projeto_mapaifam.app-main-44:/layout/activity_cadastro.xml"
+    },
+    {
+        "merged": "devandroid.fabricio.projeto_mapaifam.app-mergeDebugResources-41:/layout/activity_main_login.xml",
+        "source": "devandroid.fabricio.projeto_mapaifam.app-main-44:/layout/activity_main_login.xml"
+    }
+]
